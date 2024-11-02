@@ -1,0 +1,9 @@
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/Notes.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/Notes_autogen_timestamp_deps.dir
+R:/Cpp/My projects/Qt/Notes/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/Notes_autogen.dir
